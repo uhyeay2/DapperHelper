@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /DapperHelper.ExampleTests/Hidden.cs
+/.vs/EasyDapper/v17/.suo
