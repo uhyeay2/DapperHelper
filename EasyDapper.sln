@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDapper", "EasyDapper\EasyDapper.csproj", "{B6EEDFD3-44C9-4887-AFC2-2CC50FD07165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyDapper", "EasyDapper\EasyDapper.csproj", "{B6EEDFD3-44C9-4887-AFC2-2CC50FD07165}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DapperHelper.ExampleDatabase", "DapperHelper.ExampleDatabase\DapperHelper.ExampleDatabase.sqlproj", "{1053143A-68D0-4AE5-9589-0B88EB2F2D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperHelper.ExampleConsumer", "DapperHelper.ExampleConsumer\DapperHelper.ExampleConsumer.csproj", "{DA2093DA-196A-4B9D-B710-D4E77A85CF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperHelper.ExampleTests", "DapperHelper.ExampleTests\DapperHelper.ExampleTests.csproj", "{252E368F-5130-456F-865F-0DF9F8DB7F1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,20 @@ Global
 		{B6EEDFD3-44C9-4887-AFC2-2CC50FD07165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6EEDFD3-44C9-4887-AFC2-2CC50FD07165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6EEDFD3-44C9-4887-AFC2-2CC50FD07165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1053143A-68D0-4AE5-9589-0B88EB2F2D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1053143A-68D0-4AE5-9589-0B88EB2F2D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1053143A-68D0-4AE5-9589-0B88EB2F2D02}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1053143A-68D0-4AE5-9589-0B88EB2F2D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1053143A-68D0-4AE5-9589-0B88EB2F2D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1053143A-68D0-4AE5-9589-0B88EB2F2D02}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DA2093DA-196A-4B9D-B710-D4E77A85CF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2093DA-196A-4B9D-B710-D4E77A85CF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2093DA-196A-4B9D-B710-D4E77A85CF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2093DA-196A-4B9D-B710-D4E77A85CF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252E368F-5130-456F-865F-0DF9F8DB7F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252E368F-5130-456F-865F-0DF9F8DB7F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252E368F-5130-456F-865F-0DF9F8DB7F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252E368F-5130-456F-865F-0DF9F8DB7F1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
