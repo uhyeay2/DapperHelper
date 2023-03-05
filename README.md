@@ -3,6 +3,11 @@
 This is the Example branch! Here you can see some examples of how the DapperHelper can be implemented.  
 If you want to read more about how the implementation works, [Check Out The Main Branch!](https://github.com/uhyeay2/DapperHelper/tree/main)
 
+Google Drive Videos:
+- [Part 1 - (Main Branch) Abstraction/Implementation/DependencyInjection](https://drive.google.com/file/d/1m2KGccMTEOLpBnUXX1Fa-vyOUGKZZR0o/view?usp=share_link)
+- [Part 2 - (Example Branch) ExampleDatabase/ExampleConsumer/ExampleTests](https://drive.google.com/file/d/18zAOdANn0n_So5HLdSNjPZg451B6IugQ/view?usp=share_link)
+- [Part 3 - (Example Branch) Creating a new request/test](https://drive.google.com/file/d/1TAxqeFyZWLCexk2H2bmYWfkA6fJbbILT/view?usp=share_link)
+
 ## DapperHelper.ExampleDatabase
 
 This is a SqlServer Database Project - it holds a single Person table. If you clone the project you could Publish this project to your local database - or if it's easier you can just copy/paste the Create Table script from the Person.sql file.
