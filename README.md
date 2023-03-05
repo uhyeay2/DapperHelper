@@ -1,4 +1,4 @@
-# DapperHelper
+# DapperHelper Example
 
 This is the Example branch! Here you can see some examples of how the DapperHelper can be implemented.  
 If you want to read more about how the implementation works, [Check Out The Main Branch!](https://github.com/uhyeay2/DapperHelper/tree/main)
