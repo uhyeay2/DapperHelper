@@ -10,7 +10,7 @@ This folder is where the contracts are held. This pattern relies on the followin
 - IDapperRequest
   - GetParameters() is used to define the Parameters a request object would use. Return null if no parameters.
   - GetSql() is used to define the Sql Query or StoredProcedure Name a request object would use.
-- IDapperRequest<TResponse>
+- IDapperRequest < TResponse >
   - Inherits methods from IDapperRequest.
   - Used to define what Type of response that Dapper will Fetch/FetchList of.
 - IDapperHandler
