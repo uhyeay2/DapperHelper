@@ -4,6 +4,11 @@ This project is a barebones Class Library of a pattern I have created for using 
 The main branch is left without any examples of the pattern being used.  
 If you would like to see how it can be implemented, [Check Out The Example Branch!](https://github.com/uhyeay2/DapperHelper/tree/Example)  
 
+Google Drive Videos:
+- [Part 1 - (Main Branch) Abstraction/Implementation/DependencyInjection](https://drive.google.com/file/d/1m2KGccMTEOLpBnUXX1Fa-vyOUGKZZR0o/view?usp=share_link)
+- [Part 2 - (Example Branch) ExampleDatabase/ExampleConsumer/ExampleTests](https://drive.google.com/file/d/18zAOdANn0n_So5HLdSNjPZg451B6IugQ/view?usp=share_link)
+- [Part 3 - (Example Branch) Creating a new request/test](https://drive.google.com/file/d/1TAxqeFyZWLCexk2H2bmYWfkA6fJbbILT/view?usp=share_link)
+
 ## Abstraction
 
 This folder is where the contracts are held. This pattern relies on the following contracts:
