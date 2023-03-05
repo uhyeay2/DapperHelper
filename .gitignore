@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/EasyDapper/v17/.suo
+/EasyDapper/obj/Debug/net6.0/EasyDapper.assets.cache
