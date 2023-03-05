@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /.vs/EasyDapper/v17/.suo
 /EasyDapper/obj/Debug/net6.0/EasyDapper.assets.cache
+/.vs/EasyDapper/DesignTimeBuild/.dtbcache.v2
